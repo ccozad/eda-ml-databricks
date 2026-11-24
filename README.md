@@ -1,10 +1,14 @@
 # Introduction
 
+![Principle Component Analysis](./images/pca-4-classes.png)
+
 This repo includes a comprehensive notebook that shows how to do exploratory data analysis (EDA) and machine learning on Databricks. You should be able to run this notebook on the Databricks free edition.
 
 The notebook uses a small breast cancer dataset suitable for classification and is meant for single node or serverless deployments so it uses Pandas over Spark. The Spark approach is best for very large datasets that are difficult to fit on a single node.
 
 # Exploratory Data Analysis
+
+![Feature Distributions](./images/feature-distributions.png)
 
 Topics covered include:
 
@@ -31,6 +35,9 @@ Topics covered include:
    - Principal component analysis
 
 # Machine Learning
+
+![Macro F1 Metrics](./images/macro-f1-by-model-mean-std-over-50-cv-fo.png)
+
 - Classification models
     - Logistic regression
     - K Nearest Neighbor
