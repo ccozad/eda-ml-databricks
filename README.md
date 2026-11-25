@@ -18,7 +18,7 @@ This repo includes two comprehensive notebooks that that shows how to do explora
 
 This workflow models more of way teams work in practice where a new model is only used when it is proven to work better than the best model to date.
 
-![Champion Performance](./auc-ap-chart.png)
+![Champion Performance](./images/auc-ap-chart.png)
 
 # Breast Cancer Notebook
 
